@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Form } from './form'
+import { Form } from './Form'
 
 const body = document.querySelector('body');
 
